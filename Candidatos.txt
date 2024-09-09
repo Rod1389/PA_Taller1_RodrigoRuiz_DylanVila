@@ -1,0 +1,6 @@
+Partido1,Maria Martinez,26
+Partido1,Checo Perez,50
+Partido2,Ryan Reynolds,150
+Partido3,Eduardo Campos,42
+Partido3,Valeria Sepulveda,69
+Partido3,Rodrigo Aguilera,1
